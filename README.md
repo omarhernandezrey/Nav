@@ -23,7 +23,11 @@ export default {
     tsconfigRootDir: __dirname,
   },
 }
-```
+```<img width="956" alt="image" src="https://github.com/omarhernandezrey/Nav/assets/103592862/8e27a124-1df6-444b-929c-51522d4f5161">
+<img width="335" alt="image" src="https://github.com/omarhernandezrey/Nav/assets/103592862/4926f311-c378-4cc6-85c1-e95ba0901c33">
+<img width="323" alt="image" src="https://github.com/omarhernandezrey/Nav/assets/103592862/42b13695-531d-42c2-b5a6-b77aefaabd9e">
+
+
 
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
